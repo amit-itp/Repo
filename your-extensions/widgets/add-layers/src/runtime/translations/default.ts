@@ -1,6 +1,5 @@
 export default {
   _widgetLabel: 'Add Layers',
-  
   addLayer: 'Add Layer',
   featureServiceUrl: 'Feature Service URL',
   instructions:
